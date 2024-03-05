@@ -12,6 +12,8 @@ body {
 #profile-pic {
     overflow: auto; 
     border-radius: 50%; 
+    width: 100px;
+    height: 100px;
 }
 
 /* PROBLEM 3: Flesh our your follow button! 5 px for the
